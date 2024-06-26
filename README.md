@@ -47,7 +47,7 @@
 | **이원희** | **허 욱** | **조형진** | **김예찬** |
 | :------: |  :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/64073392?v=4" height=150 width=150> <br/> @lostdesire](https://github.com/lostdesire) | [<img src="https://avatars.githubusercontent.com/u/61164286?v=4" height=150 width=150> <br/> @wooksbaby](https://github.com/wooksbaby) | [<img src="https://avatars.githubusercontent.com/u/149780979?v=4" height=150 width=150> <br/> @whgudwlsdlrm](https://github.com/whgudwlsdlrm) | [<img src="https://avatars.githubusercontent.com/u/149780979?v=4" height=150 width=150> <br/> @yechance7](https://github.com/yechance7) |
-|EDA, 데이터베이스 구축, GPT API 프롬프트 개선, BM25 기반 검색 엔진 구현|EDA, FastText 기반, GPT API 프롬프트 개선, FastAPI 구현, 사용자 데이터 증강| EDA, FastText 작업, 개인화된 쇼핑 카트 추천 서비스 개발 | 데이터 크롤링, EDA, 프로젝트 인터페이스 구현(Streamlit) |
+|EDA, 데이터베이스 구축, GPT API 프롬프트 개선, BM25 기반 검색 엔진 구현|EDA, FastText 기반, GPT API 프롬프트 개선, FastAPI 구현, 사용자 데이터 증강| EDA, GPT API 프롬프트 개선, FastText 작업, 개인화된 쇼핑 카트 추천 서비스 개발 | 데이터 크롤링, EDA, GPT API 프롬프트 개선, FastAPI 구현,프로젝트 인터페이스 구현(Streamlit) |
 
 
 <div align="center">
